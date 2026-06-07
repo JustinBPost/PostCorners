@@ -4,7 +4,7 @@
     <img src="img/Post_Corners.jpeg" alt="Post Corners" style="float:right;width:50%;">
 </p>
 
-<a href = "https://forms.gle/k5RupgkCLoSSNWwDA" target = "_blank">Please RSVP here!</a>
+## <a href = "https://forms.gle/k5RupgkCLoSSNWwDA" target = "_blank">Please RSVP here!</a>
 
 ## Reunion Information
 <p>
