@@ -4,6 +4,8 @@
     <img src="img/Post_Corners.jpeg" alt="Post Corners" style="float:right;width:50%;">
 </p>
 
+<a href = "https://forms.gle/k5RupgkCLoSSNWwDA" target = "_blank">Please RSVP here!</a>
+
 ## Reunion Information
 <p>
     <ul>
@@ -23,13 +25,5 @@
         <li> Date: Saturday July 25th, 2026</li>
         <li> Time: 8am</li>
         <li> Location: <a href = "[https://maps.app.goo.gl/LbU8HLcyhT7gBArH7](https://genevaonthelakeoh.gov/parks/golf-course/)" target = "_blank">Geneva on the Lake Golf Course</a></li>
-    </ul>
-</p>
-
-<p>
-    <ul>
-        <li>
-            <a href = "https://forms.gle/k5RupgkCLoSSNWwDA" target = "_blank">Please RSVP here!</a>
-        </li>
     </ul>
 </p>
