@@ -13,6 +13,7 @@
     </ul>
 </p>
 
+<p>As usual, we'll provide some refreshments and snacks. If you can bring a dish that would be great (please let us know <a target = "_blank" href = "https://docs.google.com/spreadsheets/d/1wvei06sv5ILk7ij7WaTv3Lb6n3p5Ct9i10K0baW5taQ/edit?usp=sharing">what you plan to bring here</a>). If you can't bring a dish, no big deal!</p>
 
 ## Golf Outing Information
 
