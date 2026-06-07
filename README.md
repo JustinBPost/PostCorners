@@ -1,7 +1,11 @@
-# 2026 Reunion Information
+# 2026 Post Reunion
 
 <p>
     <img src="img/Post_Corners.jpeg" alt="Post Corners" style="float:right;width:50%;">
+</p>
+
+## Reunion Information
+<p>
     <ul>
         <li> Date: Sunday July 26th, 2026</li>
         <li> Time: 1-4pm</li>
@@ -9,6 +13,8 @@
     </ul>
 </p>
 
+
+## Golf Outing Information
 
 <p>
     <ul>
