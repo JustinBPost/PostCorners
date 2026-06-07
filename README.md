@@ -1,7 +1,7 @@
 # 2026 Post Reunion
 
 <p>
-    <img src="img/Post_Corners.jpeg" alt="Post Corners" style="float:right;width:45%;">
+    <img src="img/Post_Corners.jpeg" alt="Post Corners" style="float:right;width:50%;">
 </p>
 
 <a href = "https://forms.gle/k5RupgkCLoSSNWwDA" target = "_blank">Please RSVP here!</a>
