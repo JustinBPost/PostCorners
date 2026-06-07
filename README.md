@@ -24,6 +24,6 @@
         <li> We're also planning on having a golf outing on Saturday morning if you'd like to join!</li>
         <li> Date: Saturday July 25th, 2026</li>
         <li> Time: 8am</li>
-        <li> Location: <a href = "[https://maps.app.goo.gl/LbU8HLcyhT7gBArH7](https://genevaonthelakeoh.gov/parks/golf-course/)" target = "_blank">Geneva on the Lake Golf Course</a></li>
+        <li> Location: <a href = "https://genevaonthelakeoh.gov/parks/golf-course/" target = "_blank">Geneva on the Lake Golf Course</a></li>
     </ul>
 </p>
